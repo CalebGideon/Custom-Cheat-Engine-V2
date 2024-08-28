@@ -1,0 +1,11 @@
+release/differential_search.o
+release/display_processes.o
+release/main.o
+release/mainwindow.o
+release/old_search.o
+release/pointerlistmodel.o
+release/search_thread.o
+release/set_active_process.o
+release/write_to_memory.o
+release/moc_mainwindow.o
+release/moc_pointerlistmodel.o
