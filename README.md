@@ -24,7 +24,7 @@
     <hr>
     <img src="Readme_Image's/Instruct_One.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>To download the JSON parser files, click the <>code button on the right-hand side of the repository</b></li>
+    <li><b>To download the Cheat Engine files, click the <>code button on the right-hand side of the repository</b></li>
     </div>
     <div>
     <hr>
@@ -36,7 +36,7 @@
     <hr>
     <img src="Readme_Image's/Instruct_Four.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>Extract the JSON_Parser folder to a valid location on your pc (Documents or Desktop)</b></li>
+    <li><b>Extract the Custom_Cheat_Engine folder to a valid location on your pc (Documents or Desktop)</b></li>
     </div>
     <div>
     <hr>
