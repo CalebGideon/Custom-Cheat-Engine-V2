@@ -1,10 +1,10 @@
-# 🎮 Custom Cheat Engine 🎮
+# ✍ Custom Cheat Engine ✍
 
 <div>
 
-  <p>A custom Cheat Engine supporting multiple value type memory grab and insertion. Multithreading used for search, as well as UI/process thread separation. Allows process selection via active processes or active windows (NOTE: This project is not liable for misuse in online multiplayer video game environments. Please check a game's terms of service before using this this software)</p>
+  <p>A custom JSON Parser that supports basic parsing operations for valid JSON files. Implements a three step lexing, tokenisation and parsing system to read a variety of JSON files. Utilises error checking, and can be imported into Node.js projects by using npm setup. (Steps for setup below)</p>
 
-  <p><b>Note!!!</b> This cheat engine currently only runs on Windows devices.</p>
+  <p><b>Note!!!</b> Parser only tested on Windows devices.</p>
 </div>
 
 <div>
@@ -24,7 +24,7 @@
     <hr>
     <img src="Readme_Image's/Instruct_One.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>To download the Cheat Engine, click the <>code button on the right-hand side of the repository</b></li>
+    <li><b>To download the JSON parser files, click the <>code button on the right-hand side of the repository</b></li>
     </div>
     <div>
     <hr>
@@ -36,13 +36,13 @@
     <hr>
     <img src="Readme_Image's/Instruct_Four.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>Extract the Custom-Cheat_Engine-main folder to wherever on your pc (Probably Documents or Desktop)</b></li>
+    <li><b>Extract the JSON_Parser folder to a valid location on your pc (Documents or Desktop)</b></li>
     </div>
     <div>
     <hr>
     <img src="Readme_Image's/Instruct_Five.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>Inside of the folder, the first file should be the .exe application called Custom_Cheat_Engine. Open the application -> Below will be a few notes on the applications features and a short showcase of how to use it</b></li>
+    <li><b>Inside the folder, the first file should be the .exe application called Custom_Cheat_Engine. Open the application -> Below will be a few notes on the applications features and a short showcase of how to use it</b></li>
     </div>
   </ol>
 </div>
